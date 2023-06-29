@@ -1,0 +1,21 @@
+.branBar_ul {
+ list-style-type: none;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-around;
+}
+
+.branBar_li {
+    font-size: 18px;
+    text-transform: uppercase;
+    border: 1px solid rgb(206, 205, 205);
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.branBar_li:hover {
+    background-color: rgb(206, 205, 205);
+    color: white;
+
+}

@@ -1,0 +1,10 @@
+.contacts_section {
+    margin: 20px auto;
+    width: 80%;
+}
+
+.contacts_grid {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

@@ -1,0 +1,22 @@
+ .container-center {
+    max-width: 80%;
+    margin: auto;
+}
+
+.catalog {
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.cards {
+    padding: 0 30px;
+}
+
+.section-title{
+    margin: 20px;
+    text-transform: uppercase;
+}
